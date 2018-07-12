@@ -1,3 +1,5 @@
+xy=[]
 for i in range(0,3):
 	n=input()
-print(max(n))
+	xy.append(n)
+print(max(xy))
