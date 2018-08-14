@@ -1,0 +1,5 @@
+num=input()
+num=num.split()
+n1=int(num[0])
+n2=int(num[1])
+print(pow(n1,n2))
